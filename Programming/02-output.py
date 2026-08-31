@@ -1,7 +1,0 @@
-print("Hello world")
-print(4.5)
-print(5)
-print(type(5))
-print(type(3.14))
-print('4.5 , Hello')
-print("hello", 'end', 87, True, False, end='\n')
