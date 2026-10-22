@@ -1,0 +1,3 @@
+create notebooklm 
+revise by creating syllabus.md and include every topic 
+now took two days for a lecture
