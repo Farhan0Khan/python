@@ -23,7 +23,7 @@ def main():
         {"name": "Mulberry", "calories": 0}
     ]
 
-    request = input("Item: ").strip().capitalize()
+    request = input("Item: ").strip().title()
     calorie = fruit_search(request, fruits)
 
     if calorie is None:
